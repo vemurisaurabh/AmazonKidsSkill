@@ -1,4 +1,4 @@
 # AmazonKidsSkill
 Amazon Kid Skill Contest by Devpost
 
-## Idea
+## Ideas
